@@ -1,0 +1,18 @@
+{
+    "usuarios":[
+        {
+            "id": 0,
+            "nombre": "hamilton",
+            "apellido": "mosquera",
+            "username": "hantbedk",
+            "password": "8e609877ded2bbd88590c352fc033d8c"
+        },
+        {
+            "id": 1,
+            "nombre": "maicol",
+            "apellido": "pardo",
+            "username": "chapardo",
+            "password": "8e609877ded2bbd88590c352fc033d8c"
+        }
+    ]
+}
